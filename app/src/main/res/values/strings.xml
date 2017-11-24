@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="image_loaded">Image loaded</string>
+    <string name="choisir_une_existante">Choisir une image existante</string>
+    <string name="enregistrer_une">Enregistrer une image</string>
+    <string name="camera_custom">Lancer camera personalisé</string>
+    <string name="take_picture">take a picture</string>
+</resources>
